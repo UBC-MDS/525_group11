@@ -20,7 +20,7 @@ Below is a list of current contributors:
 - Rachel(Yuting) Xu
 - Saule Atymtayeva
 - Mai Le
-- DOAN KHANH VU TRAN
+- Doan Khanh Vu Tran
 
 Current collaboration strategy:
 - [GitHub flow](https://guides.github.com/introduction/flow/)
