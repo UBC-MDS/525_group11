@@ -17,7 +17,7 @@ The purpose is to get exposure on working with a large dataset and to build and 
 
 Below is a list of current contributors:
 
-- Rachel(Yuting) Xu
+- Yuting (Rachel) Xu
 - Saule Atymtayeva
 - Mai Le
 - Doan Khanh Vu Tran
